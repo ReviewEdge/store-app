@@ -92,11 +92,6 @@ def delete_user(search_column, search_value):
     store_db_1.commit()
 
 
-
-
-
-
-
 def main():
     print("Running main...")
 
@@ -113,13 +108,6 @@ def main():
     # edit_user(1, "username", "Henry")
 
     # delete_user("username", "Bill")
-
-
-
-
-
-
-
 
 
 # runs main (sample) if called directly
