@@ -5,8 +5,8 @@ A store app.
 
 
 
-# Install List:
-#### Using Sheets
+## Install List:
+#### Using Sheets (currently not necessary)
 - These two must be installed to use sheets (also, the token.pickle in the directory is used):
 
 This one has a pip name discrepancy, so the module it says it needs is different from what it actually needs:
