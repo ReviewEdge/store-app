@@ -13,7 +13,7 @@ import date_convert
 store_db_1 = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="2belugas",
+    passwd="xxxxx",
     database="store"
 )
 
